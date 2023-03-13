@@ -1,0 +1,6 @@
+I can buy myself flowers (5 cuvinte, 6 vocale) 0.2150267509896857
+Write my name in the sand *  (6 cuvinte, 7 vocale) 0.7631260476566545
+TALK TO MYSELF FOR HOURS, YEAH (6 cuvinte, 8 vocale)0.029094501031616815
+Say things you don't understand *  (5 cuvinte, 8 vocale) 0.7535554508638216
+I can take myself dancing, yeah (6 cuvinte, 9 vocale) 0.672699881691363
+I can hold my own hand *  (6 cuvinte, 5 vocale) 0.26643182434388957
