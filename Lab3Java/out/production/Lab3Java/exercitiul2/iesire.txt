@@ -1,0 +1,15 @@
+Nume cocacola
+pret: 9.2
+cantitate: 14
+data expirarii 2023-12-22
+************************************
+Nume chipusri
+pret: 10.1
+cantitate: 12
+data expirarii 2023-02-21
+************************************
+Nume pateu
+pret: 6.0
+cantitate: 18
+data expirarii 2023-01-05
+************************************
