@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b77ad1d-d5e2-401b-a9c8-09f0b0c3fcd2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exemp2/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercitiul1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercitiul1/PerecheNumere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exmp1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exmp1/Persoana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/perechiNumere.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/persoane.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exemp2/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Incercare2LabJava2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Incercare2LabJava2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3Java/out/production/Lab3Java/exercitiul2/iesire.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3Java/out/production/Lab3Java/exercitiul2/iesire.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3Java/src/exempledeInvatat/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3Java/src/exempledeInvatat/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1JAVA/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1JAVA/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NPWCG3M5WJQHSsBT9nLnFqWuSk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/COSMINA/IdeaProjects/LaboratoareJava/Laborator5",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\COSMINA\IdeaProjects\LaboratoareJava\Laborator5\src\main\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="exemp2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercitiul1.Main" />
+      <module name="Laborator5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercitiul1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Laborator5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exemp2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exemp2" />
+      <option name="MAIN_CLASS_NAME" value="exemp2.CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteCalculator" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Laborator5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="teste" />
+      <option name="MAIN_CLASS_NAME" value="teste.TesteCalculator" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.CalculatorTest" />
+        <item itemvalue="TestNG.TesteCalculator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b77ad1d-d5e2-401b-a9c8-09f0b0c3fcd2" name="Changes" comment="" />
+      <created>1679566070564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679566070564</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
