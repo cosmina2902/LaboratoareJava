@@ -1,0 +1,32 @@
+[
+  {
+    "nume": "Vlad",
+    "post": "sef",
+    "data_angajarii": "2022-05-11",
+    "salariul": 4200
+  },
+  {
+    "nume": "Andrei",
+    "post": "sef",
+    "data_angajarii": "2022-04-09",
+    "salariul": 5800
+  },
+  {
+    "nume": "Ion",
+    "post": "director",
+    "data_angajarii": "2022-06-11",
+    "salariul": 1300
+  },
+  {
+    "nume": "Ion",
+    "post": "Informatician",
+    "data_angajarii": "2022-08-05",
+    "salariul": 3100
+  },
+  {
+    "nume": "Cristian",
+    "post": "contabil",
+    "data_angajarii": "2021-10-11",
+    "salariul": 2500
+  }
+]
