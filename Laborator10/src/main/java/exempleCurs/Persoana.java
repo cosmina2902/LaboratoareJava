@@ -1,0 +1,22 @@
+package exempleCurs;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+public class Persoana {
+
+    private String nume;
+    private int varsta;
+    private Adresa adresa;
+    @Autowired
+    public String getNume() { return nume; }
+    public void setNume(String nume) { this.nume = nume;}
+    public int getVarsta() {return varsta;}
+    public void setVarsta(int varsta) {this.varsta = varsta;}
+    public Adresa getAdresa() {return adresa;}
+    public void setAdresa(Adresa adresa) {this.adresa = adresa;}
+    @Override
+    public String toString() {
+        return nume + ", " + varsta + ", "
+                +adresa.toString();
+    }
+}
